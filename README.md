@@ -6,7 +6,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="60%">
-      <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35"> Hi there, I'm Saeid! </h1>
+      <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35"> Hi there, I'm Saeid! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35"></h1>
       <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&height=50&lines=Python+Developer;Telegram+Bot+Expert;Automation+Enthusiast;AI+Integrated+Solutions" alt="Typing SVG" />
       </p>
@@ -28,7 +28,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/W UlS4v4Wf1H00/giphy.gif" width="30" height="30"> **About Me**
+<h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="35" height="35"> **About Me**</h3>
 
 <table align="center" width="100%">
   <tr>
@@ -53,7 +53,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/XUlN6v&width=30" width="30" height="30"> **My GitHub Metrics**
+<h3><img src="https://media.giphy.com/media/XUlN6v&width=30" width="30" height="30"> **My GitHub Metrics**</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mabusaeid01-droid&theme=tokyonight&hide_border=true" width="95%" />
@@ -77,7 +77,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/Lp90A6q290k3oA&width=30" width="30" height="30"> **Connect with Me**
+<h3><img src="https://media.giphy.com/media/Lp90A6q290k3oA&width=30" width="30" height="30"> **Connect with Me**</h3>
 
 <p align="left">
   <a href="https://t.me/saeid9_90" target="_blank">
@@ -98,7 +98,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/T4o&width=30" width="30" height="30"> **Tech Stack**
+<h3><img src="https://media.giphy.com/media/T4o&width=30" width="30" height="30"> **Tech Stack**</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
