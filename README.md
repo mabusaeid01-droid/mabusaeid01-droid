@@ -21,7 +21,7 @@ I am a passionate **Python Developer** specializing in **Telegram Bot automation
 
 ### 📊 My GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mabusaeid01-droid&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mabusaeid01-droid&theme=radical&hide_border=true" width="400" />
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mabusaeid01-droid&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
