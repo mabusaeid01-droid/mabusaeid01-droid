@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Python+Developer;Telegram+Bot+Expert;Automation+Enthusiast;AI+Integrated+Solutions" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mabusaeid01-droid&label=Profile%20Views&color=00d2ff&style=flat" alt="Visitor Counter" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -19,7 +23,7 @@ I am a passionate **Python Developer** specializing in **Telegram Bot automation
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mabusaeid01-droid&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="400" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabusaeid01-droid&layout=compact&theme=radical&hide_border=true" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mabusaeid01-droid&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
 ---
@@ -46,4 +50,3 @@ I am a passionate **Python Developer** specializing in **Telegram Bot automation
   <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
-
