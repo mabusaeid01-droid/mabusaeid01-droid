@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Status-Active%20🚀-brightgreen?style=for-the-badge" />
     </td>
     <td align="center" width="40%">
-      <img src="https://github.com/mabusaeid01-droid/mabusaeid01-droid/raw/main/17344.jpg" width="220" style="border-radius: 20px; border: 3px solid #00d2ff; box-shadow: 0px 0px 20px #00d2ff;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6NnZ6NnZ6NnZ6NnZ6NnZ6NnZ6NnZ6NnZ6NnZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
 ---
 
 ### 🚀 **About Me**
-I am a passionate **Python Developer** specializing in **Telegram Bot automation** and **AI integration**.
+I am a passionate **Python Developer** specializing in **Telegram Bot automation** and **AI integration**. I spend most of my time coding in **Termux** and **Pydroid 3**.
 
 - 🔭 **Working on:** AI-powered Telegram Bots.
 - 🌱 **Learning:** Generative AI & Web Automation.
