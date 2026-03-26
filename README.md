@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Status-Active%20🚀-brightgreen?style=for-the-badge" />
     </td>
     <td align="center" width="40%">
-      <img src="https://github.com/mabusaeid01-droid/mabusaeid01-droid/blob/main/17344.jpg?raw=true" width="220" style="border-radius: 20px; border: 3px solid #00d2ff; box-shadow: 0px 0px 20px #00d2ff;" />
+      <img src="https://raw.githubusercontent.com/mabusaeid01-droid/mabusaeid01-droid/main/17344.jpg" width="220" style="border-radius: 20px; border: 3px solid #00d2ff; box-shadow: 0px 0px 20px #00d2ff;" />
     </td>
   </tr>
 </table>
